@@ -1,0 +1,25 @@
+body {
+    background-color:#08080B;
+}
+
+.form_wrap {
+    display: flex;
+    width: 1215px;
+    margin: 0 auto;
+}
+
+.form_wrap_bg {
+    height: 680px;
+    width: 333px;
+    background-image: url('img/bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.form {
+    background-color: #242424;
+    height: 680px;
+    width: 882px;
+    border-radius: 0 22px 22px 0;
+}
