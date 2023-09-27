@@ -121,10 +121,15 @@ button {
     border: none;
     color: white;
     border-radius: 3px;
+    cursor: pointer;
 }
 
 button:hover {
     background-color: #5e89df;
+}
+
+button:active {
+    transform: scale(.98);
 }
 
 .footer {
