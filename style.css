@@ -102,7 +102,6 @@ input[type="checkbox"]:checked + label::before {
     color: #fff;
 }
 
-/* Style the label text */
 label {
     cursor: pointer;
 }
