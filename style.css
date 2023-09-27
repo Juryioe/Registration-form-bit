@@ -31,7 +31,7 @@ body {
 }
 
 form {
-    margin: 53px auto;
+    margin: 67px auto;
     width: 500px;
     height: 400px;
 }
@@ -40,9 +40,12 @@ form h1 {
     color: white;
     font-size: 1.27rem;
     font-weight: 600;
+    line-height: 25px;
 }
 form h3 {
     color: #7F7F7F;
+    font-size: .7rem;
+    font-weight: 300;
 }
 
 
